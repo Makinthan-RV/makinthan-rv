@@ -1,4 +1,4 @@
-kiHi,👋 I'm Makinthan
+Hi,👋 I'm Makinthan
 
 🎓 Computer Science Undergraduate  
 💡 Interested in AI, Machine Learning & Software Development  
